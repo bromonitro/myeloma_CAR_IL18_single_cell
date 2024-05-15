@@ -1,5 +1,6 @@
 # SUMMARY
-analysis of BALB/c CD45+ bone marrow treated with IL-18-secreting CAR T-cells, and analysis of myeloma-stimulated APRIL CAR T cells in vitro +/- engineered IL-18 secretion
+-analysis of BALB/c CD45+ bone marrow treated with IL-18-secreting CAR T-cells
+-analysis of myeloma-stimulated APRIL CAR T cells in vitro +/- engineered IL-18 secretion
 
 ## Ng et al. (2024) IL-18-secreting multi-antigen targeting CAR T-cells eliminate antigen-low myeloma in an immunocompetent mouse model (https://doi.org/10.1182/blood.2023022293)
 
